@@ -1,0 +1,4 @@
+viktor>=14, <15
+pandas
+plotly
+openpyxl
